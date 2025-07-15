@@ -21,7 +21,9 @@ website_title = "Max Cohen"
 website_descr = "Max Cohen's poorly built academic website"
 website_url   = "https://maxhcohen.github.io/"
 +++
+
 @def use_pretty_urls = true
+@def css = "css/franklin.css"
 <!--
 Add here global latex commands to use throughout your pages.
 -->
