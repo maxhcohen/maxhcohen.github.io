@@ -16,14 +16,15 @@ IMPORTANT NOTE:
 -->
 
 {{insert head.html}}
+
 <body>
   <div class="franklin-content">
     {{ispage tag/blog/*}}
-      <h1>All Posts</h1>
+    <h1>All Posts</h1>
     {{else}}
-      <h1>Tag: {{fill fd_tag}}</h1>
+    <h1>Tag: {{fill fd_tag}}</h1>
     {{end}}
-    
+
     <p>
       {{custom_taglist}}
       <!-- <a href="/"><b>(back)</b></a> -->
@@ -32,13 +33,14 @@ IMPORTANT NOTE:
     {{insert page_foot.html}}
   </div>
 </body>
+
 </html>
 
-<div class="sidebar">
+<!-- <div class="sidebar">
   <a href="/">Home</a>
   <a href="publications">Publications</a>
   <a href="research">Research</a>
   <a href="teaching">Teaching</a>
   <a href="/tag/news">News</a>
   <a href="students">Students</a>
-</div>
+</div> -->
