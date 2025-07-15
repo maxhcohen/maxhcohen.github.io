@@ -1,5 +1,6 @@
 @def use_pretty_urls = true
 @def css = "css/franklin.css"
+@def prepath = ""
 <!--
 Add here global page variables to use throughout your website.
 -->
