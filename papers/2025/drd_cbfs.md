@@ -6,13 +6,13 @@ hascode = true
 
 date = Date(2025, 4, 1)
 arxiv = "https://arxiv.org/abs/2504.00397"
-venue = ""
+venue = "IEEE Conference on Decision and Control"
 link = ""
 code = ""
 video = "https://www.gbahati.com/cdc2025"
 authors = "Gilbert Bahati, Ryan K. Cosner, Max H. Cohen, Ryan M. Bena, and Aaron D. Ames"
 
-tags = ["preprint"]
+tags = ["preprint", "cdc25"]
 +++
 
 # Control Barrier Function Synthesis for Nonlinear Systems with Dual Relative Degree

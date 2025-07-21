@@ -15,7 +15,7 @@
 </url>
 <url>
     <loc>https://maxhcohen.github.io/papers/2025/drd_cbfs/index.html</loc>
-    <lastmod>2025-07-14</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -38,8 +38,14 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://maxhcohen.github.io/papers/2025/rom_hzd/index.html</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://maxhcohen.github.io/papers/2024/paper1/index.html</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -57,13 +63,13 @@
 </url>
 <url>
     <loc>https://maxhcohen.github.io/news/2025/attending_acc/index.html</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://maxhcohen.github.io/news/2024/attending_cdc/index.html</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -100,6 +106,12 @@
 <url>
     <loc>https://maxhcohen.github.io/papers/2021/hscc2021/index.html</loc>
     <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://maxhcohen.github.io/papers/2025/odcbfs/index.html</loc>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -182,296 +194,14 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://maxhcohen.github.io/docs/tag/selected/index/</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://maxhcohen.github.io/news/2025/cdc25_papers/index.html</loc>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://maxhcohen.github.io/docs/papers/2022/acc2022/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2024/constructive_backstepping/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/smooth_safety_filters/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/news/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/404/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/activated_backstepping/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/journal/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/news/2025/attending_acc/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/recbfs/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/rom_acc25/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/arc/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/cdc24/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/preprint/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2024/rom_annual_review/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/featured/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/book/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/publications/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/conference/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/learning_rom_l4dc/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/drd_cbfs/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2020/cdc2020/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/news/2025/tenure_track_postion/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/acc2023/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/l4dc25/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/research/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2021/hscc2021/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/news/2024/attending_cdc/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/cbf/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/news/2025/l4dc_best_paper/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2022/cdc2022/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/acc24/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/thesis/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/thesis/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2025/lca_contracts/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/adaptive/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/automatica/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/teaching/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/students/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2024/paper1/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/nahs/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/acc25/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/rom/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/physics/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/tag/cdc25/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2023/book/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2019/acc2019/index/</loc>
-    <lastmod>2025-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://maxhcohen.github.io/docs/papers/2024/acc2024/index/</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://maxhcohen.github.io/papers/2025/multi_cbf/index.html</loc>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
