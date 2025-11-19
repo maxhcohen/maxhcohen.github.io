@@ -30,7 +30,6 @@ jobs:
 
       - name: Build Franklin site
         run: |
-          # Replace the following with the exact build command you use locally if different.
           julia --project=. -e 'using Franklin; Franklin.build()'
       - name: Show output folder (for debugging)
         run: |
@@ -38,10 +37,10 @@ jobs:
           ls -la __site || true
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2 
+        uses: actions/upload-pages-artifact@v3 
         with:
           # Upload the directory that contains the generated static site
           path: __site
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
