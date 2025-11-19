@@ -1,0 +1,46 @@
+# Build Franklin.jl site and deploy to GitHub Pages using upload-pages-artifact + deploy-pages
+name: Build and deploy Franklin site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Julia
+        uses: julia-actions/setup-julia@v1
+        with:
+          version: '1.12' # change if you use a different Julia version
+
+      - name: Install Julia dependencies
+        run: julia --project=. -e 'using Pkg; Pkg.instantiate(); Pkg.precompile()'
+
+      - name: Build Franklin site
+        run: |
+          # Replace the following with the exact build command you use locally if different.
+          julia --project=. -e 'using Franklin; Franklin.build()'
+      - name: Show output folder (for debugging)
+        run: |
+          echo "Listing __site contents:"
+          ls -la __site || true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload the directory that contains the generated static site
+          path: __site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
