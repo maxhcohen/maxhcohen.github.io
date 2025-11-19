@@ -4,7 +4,8 @@ name: Build and deploy Franklin site
 on:
   push:
     branches:
-      - main
+      - master  # Set a branch to trigger deployment
+      - main    # You can add more branches if needed
 
 permissions:
   contents: read
