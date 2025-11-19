@@ -30,7 +30,7 @@ jobs:
 
       - name: Build Franklin site
         run: |
-          julia --project=. -e 'using Franklin; Franklin.build()'
+          julia --project=. -e 'using Franklin; optimize()'
       - name: Show output folder (for debugging)
         run: |
           echo "Listing __site contents:"
