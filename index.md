@@ -10,7 +10,7 @@ hascode = false
 <div class="row">
     <div class="col_left_home">
         <h1 class="title"> Max Cohen </h1>
-        <l>Postdoctoral Scholar, Caltech</l>
+        <l>Assistant Professor, NC State</l>
 
         <div style="text-align: center;"><a href="mailto:maxcohen@caltech.edu">Email</a>&ensp;//&ensp;<a href="https://scholar.google.com/citations?user=e_0yKw0AAAAJ&hl=en">Google Scholar</a>&ensp;//&ensp;<a href='https://github.com/maxhcohen'>Github</a>&ensp;//&ensp;<a href='https://www.linkedin.com/in/max-h-cohen/'>LinkedIn</a>&ensp;</div>
         
