@@ -16,11 +16,7 @@ hascode = false
         
 
         <p>
-        <b>Welcome!</b> I'm an Assistant Professor in the <a href="https://ece.ncsu.edu/"> Department of Electrical and Computer Engineering at North Carolina State University</a>. Prior to joining NC State, I was a Postdoctoral Scholar at the California Institute of Technology where I worked in the AMBER Lab with Professor Aaron Ames. Before that, I earned my Ph.D. in Mechanical Engineering from Boston University working in the Boston University Robotics Lab with Professor Calin Belta and earned my B.S. in Mechanical Engineering from the University of Florida. 
-        </p>
-
-        <p>
-        <b> I am currently recruiting Ph.D. students for Spring 2026 and Fall 2026 to join my lab at NC State.</b> If you are interested in pursuing a Ph.D. in the general areas of control theory, robotics, and autonomy, please check out <a href="/students/"> my prospective students page.</a>
+        <b>Welcome!</b> I'm an Assistant Professor in the <a href="https://ece.ncsu.edu/"> Department of Electrical and Computer Engineering at North Carolina State University</a>, where I lead the Autonomy, Controls, and Robotics Engineering (ACRE) Lab. Prior to joining NC State, I was a Postdoctoral Scholar at the California Institute of Technology where I worked in the AMBER Lab with Professor Aaron Ames. Before that, I earned my Ph.D. in Mechanical Engineering from Boston University working in the Boston University Robotics Lab with Professor Calin Belta and earned my B.S. in Mechanical Engineering from the University of Florida. 
         </p>
 
         <p>
